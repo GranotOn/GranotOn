@@ -4,4 +4,4 @@ My name is On (Owen in English). I'm an aspiring web developer mainly focused on
 
 - 🔭 I’m currently working on a multiplayer tic-tac-toe web application, implemented with Express, React, SocketIO and more!
 - 🌱 I’m currently learning Go, through building an interpeter with an awesome book I've found: "Writing An Interpreter In Go" by Thorsten Ball.
-- ⚡ Fun fact: I'm currently learning computer science in Bar-Ilan university, starting my second year soon.
+- ⚡ I'm currently learning computer science in Bar-Ilan university, starting my second year soon.
