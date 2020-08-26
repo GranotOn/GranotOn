@@ -1,4 +1,4 @@
-### Hi there 👋🐱‍👤
+### Hi there 👋
 
 My name is On (Owen in English). I'm an aspiring web developer mainly focused on the back-end, but I also love using React. 
 
