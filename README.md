@@ -3,9 +3,9 @@
 
 <img align="center" src="https://github.com/OwenGranot/Images/blob/main/about.png"/>  
 
-- Fullstack developer, MERN/SERN
-- I'm currently learning Machine-Learning & Deep-Learning with Python, TensorFlow and R.
-- I'm a 2nd year Computer-Science student.
+- 💻 Fullstack developer, MERN/SERN
+- 🤖 I'm currently learning Machine-Learning & Deep-Learning with Python, TensorFlow and R.
+- 🏫 I'm a 2nd year Computer-Science student.
 
 
 <img align="center" src="https://github.com/OwenGranot/Images/blob/main/connect.png">  
