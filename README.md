@@ -1,7 +1,2 @@
-### Hi there 👋
-
-My name is On and I'm an aspiring web developer mainly focused on the back-end, but I also love using React. 
-
-- 🔭 I’m currently working on a multiplayer tic-tac-toe web application, implemented with Express, React, SocketIO and more!
-- 🌱 I’m currently learning Go, through building an interpeter with an awesome book I've found: "Writing An Interpreter In Go" by Thorsten Ball.
-- ⚡ I'm currently learning computer science in Bar-Ilan university, starting my second year soon.
+c<h2> Hey I'm Owen <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
