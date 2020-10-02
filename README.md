@@ -1,5 +1,5 @@
 <h2> Hey I'm Owen <img src="https://github.com/OwenGranot/Images/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/OwenGranot/Images/blob/main/dev.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/OwenGranot/Images/blob/main/dev.gif" width="400"/>
 
 <img align="center" src="https://github.com/OwenGranot/Images/blob/main/about.png"/>  
 
