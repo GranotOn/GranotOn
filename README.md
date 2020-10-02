@@ -1,12 +1,10 @@
 <h2> Hey I'm Owen <img src="https://github.com/OwenGranot/Images/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/OwenGranot/Images/blob/main/dev.gif" width="400"/>  
+<img align="right" alt="GIF" src="https://github.com/OwenGranot/Images/blob/main/dev.gif" width="500"/>  
 
 <img align="center" src="https://github.com/OwenGranot/Images/blob/main/about.png"/>  
 
 - 💻 Fullstack developer, MERN/SERN
 - 🤖 I'm currently learning Machine-Learning & Deep-Learning with Python, TensorFlow and R.
-  - Q. What is a pirate's favorite programming language?
-  - A. No,no it's not R. A pirate's first love is the C.
 - 🏫 I'm a 2nd year Computer-Science student.
 
 
