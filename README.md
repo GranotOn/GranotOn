@@ -5,6 +5,8 @@
 
 - 💻 Fullstack developer, MERN/SERN
 - 🤖 I'm currently learning Machine-Learning & Deep-Learning with Python, TensorFlow and R.
+  - Q. What is a pirate's favorite programming language?
+  - A. No,no it's not R. A pirate's first love is the C.
 - 🏫 I'm a 2nd year Computer-Science student.
 
 
