@@ -11,5 +11,5 @@
 <img align="center" src="https://github.com/OwenGranot/Images/blob/main/connect.png">  
 
 - <a href="https://www.linkedin.com/in/on-granot-08567a173/"><img src="https://img.shields.io/badge/linkedin%20@On%20Granot-0D95E8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- <a href="https://mail.google.com/mail/u/?authuser=granotowen@gmail.com"> <img src="https://img.shields.io/badge/GMAIL:%20granotowen@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=B23121"></a>
+- <a href="https://mail.google.com/mail/u/?authuser=granotowen@gmail.com"> <img src="https://img.shields.io/badge/GMAIL:%20granotowen@gmail.com-f9f9f9?style=for-the-badge&logo=gmail&logoColor=B23121"></a>
 - <a href="#"> <img src="https://img.shields.io/badge/My%20Website:%20SOON-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"></a>
