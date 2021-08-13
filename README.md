@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me
 
-- BSc Student 2nd year
+- BSc CS Student 2nd year
 - Get in touch with me at [granotowen@gmail.com](granotowen@gmail.com)
 
 
