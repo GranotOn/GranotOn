@@ -3,7 +3,13 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/ongranot/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>  
+    </a>
+     <a href="https://leetcode.com/granotowen">
+      <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    </a>
+     <a href="https://www.codewars.com/users/NixOG">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+    </a>
   </div>
   <div align="center">
       <img src="https://komarev.com/ghpvc/?username=OwenGranot&style=flat-square&color=blue" alt="profile views"/>
