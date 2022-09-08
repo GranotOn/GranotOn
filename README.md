@@ -1,10 +1,21 @@
-## 👨🏻‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" alt="we can code this" />
+  <div align="center">
+    <a href="https://www.linkedin.com/in/ongranot/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>  
+  </div>
+  <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=OwenGranot&style=flat-square&color=blue" alt="profile views"/>
+  </div>
 
-- BSc CS Student 3nd year
-- Get in touch with me at [granotowen@gmail.com](granotowen@gmail.com)
+</p>
 
+## Me
 
-## 🛠 Technologies I Use
+👨‍💻 Fullstack Developer, 🎮 3D & Gaming enthusiast, 🏎 F1 fan. 
+
+## My Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -21,11 +32,8 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
   
-  ## 🔢 Statistics
+  ## My Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenGranot&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=OwenGranot.OwenGranot)
-  
-  
-  
   ![My Github Stats](https://github-readme-stats.vercel.app/api?username=OwenGranot&count_private=true&show_icons=true&theme=radical)
 
